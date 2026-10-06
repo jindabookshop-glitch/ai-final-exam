@@ -1,4 +1,4 @@
-# تاقیکردنەوەیا کۆتایی کورسا AI — AI Course Final Exam
+# ئەزموونا کورسێ AI — AI Course Final Exam
 
 رێکخراوا گەنجێن بەرهەمدار · مامۆستا: سەفەر ئەیوب
 Badini Kurmanji (Arabic script) UI · Telegram login · one attempt per Telegram ID · server-side grading · Google Sheets · teacher panel.
