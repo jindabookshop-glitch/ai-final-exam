@@ -1,0 +1,13 @@
+{
+  "name": "ai-final-exam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI course final exam (Badini Kurmanji) - Telegram login, one attempt per Telegram ID, server-side grading. Zero npm dependencies.",
+  "main": "server/index.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "DEV_MODE=true node --watch server/index.js",
+    "test": "node --test \"tests/**/*.test.js\""
+  }
+}
